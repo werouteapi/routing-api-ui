@@ -57,7 +57,7 @@ Test webhook configuration:
 
 ### 1. Sign Up
 
-Visit https://dashboard.routingapi.com and create an account.
+Visit https://github.com/werouteapi/routing-api-docs to learn more.
 
 ### 2. Get API Key
 
@@ -188,12 +188,12 @@ Test keys (`sk_test_*`) only work with sandbox API.
 ## Support
 
 - Email: support@webundle.org
-- Docs: https://docs.routingapi.com
+- Docs: https://github.com/werouteapi/routing-api-docs
 - Issues: https://github.com/werouteapi/routing-api-ui/issues
 
 ## Next Steps
 
-1. [Read API Reference](../../../routing-api-docs)
-2. [Download SDK](../../../routing-api-sdks)
-3. [Import Postman Collection](../../../routing-api-postman)
-4. [View Examples](../../../routing-api-examples)
+1. [Read API Reference](https://github.com/werouteapi/routing-api-docs#api-reference)
+2. [Download SDK](https://github.com/werouteapi)
+3. [Import Postman Collection](https://github.com/werouteapi/routing-api-postman)
+4. [View Examples](https://github.com/werouteapi/routing-api-examples)
